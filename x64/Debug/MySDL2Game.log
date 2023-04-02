@@ -1,7 +1,4 @@
-﻿  BaseObject.cpp
-C:\VisualStudioProjects\MySDL2Game\CommonFunc.h(47,2): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
-C:\VisualStudioProjects\MySDL2Game\CommonFunc.h(59,2): warning C4091: 'typedef ': ignored on left of 'Map' when no variable is declared
-  CommonFunc.cpp
+﻿  game_map.cpp
 C:\VisualStudioProjects\MySDL2Game\CommonFunc.h(47,2): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
 C:\VisualStudioProjects\MySDL2Game\CommonFunc.h(59,2): warning C4091: 'typedef ': ignored on left of 'Map' when no variable is declared
   MainObject.cpp

@@ -71,5 +71,8 @@
     <ClInclude Include="ThreatsObject.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="TextObject.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

@@ -150,6 +150,7 @@
     <ClInclude Include="CommonFunc.h" />
     <ClInclude Include="ExplosionObject.h" />
     <ClInclude Include="game_map.h" />
+    <ClInclude Include="Geometric.h" />
     <ClInclude Include="ImpTimer.h" />
     <ClInclude Include="MainObject.h" />
     <ClInclude Include="PlayerPower.h" />

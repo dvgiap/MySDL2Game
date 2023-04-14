@@ -80,5 +80,8 @@
     <ClInclude Include="PlayerPower.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Geometric.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
